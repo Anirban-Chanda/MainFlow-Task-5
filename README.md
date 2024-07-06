@@ -1,6 +1,4 @@
-# Calcureact
-
-A calculator built using [React.js](https://react.dev/) that instantly reacts to user input to show real time results.
+# Simple Calculator
 
 ## Usage:
 
